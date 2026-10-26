@@ -1,0 +1,13 @@
+{
+  "itemGroup.mcaslimarms": "Example Mod Tab",
+  "block.mcaslimarms.example_block": "Example Block",
+  "item.mcaslimarms.example_item": "Example Item",
+
+  "mcaslimarms.configuration.title": "MCA-SlimArms Configs",
+  "mcaslimarms.configuration.section.mcaslimarms.common.toml": "MCA-SlimArms Configs",
+  "mcaslimarms.configuration.section.mcaslimarms.common.toml.title": "MCA-SlimArms Configs",
+  "mcaslimarms.configuration.items": "Item List",
+  "mcaslimarms.configuration.logDirtBlock": "Log Dirt Block",
+  "mcaslimarms.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mcaslimarms.configuration.magicNumber": "Magic Number"
+}
